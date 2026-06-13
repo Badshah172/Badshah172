@@ -75,6 +75,7 @@ I am a **Highly Skilled Full Stack Developer** dedicated to building high-perfor
 <a href="https://linkedin.com/in/syed-hassnain-ali-shah-15b200186" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:syedhassnainalishah463@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://youtube.com/@smarttechnicalchannel6153" target="blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+<a href="https://brothersminimart.com/syedhassnainalishah" target="blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=Profile&logoColor=white" /></a>
 </p>
 
 <p align="center">
